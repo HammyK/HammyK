@@ -76,9 +76,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechHammy&show_icons=true&theme=radical&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechHammy&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammyK&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechHammy&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammyK&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
