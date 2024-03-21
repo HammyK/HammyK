@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="mailto:humzakhan.ldn@gmail.com">
-    <img src="https://img.shields.io/badge/-TechHammy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humzakhan.ldn@gmail.com"/>
+    <img src="https://img.shields.io/badge/-HumzaK-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humzakhan.ldn@gmail.com"/>
   </a>
 <a href="https://www.linkedin.com/in/hamza-khan-3468851b/">
   <img src="https://img.shields.io/badge/-TechHammy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-khan-3468851b/"/>
