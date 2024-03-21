@@ -59,14 +59,14 @@
     <img src="https://img.shields.io/badge/-HumzaK-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humzakhan.ldn@gmail.com"/>
   </a>
 <a href="https://www.linkedin.com/in/hamza-khan-3468851b/">
-  <img src="https://img.shields.io/badge/-TechHammy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-khan-3468851b/"/>
+  <img src="https://img.shields.io/badge/-HumzaK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-khan-3468851b/"/>
 </a>
 <a href="https://medium.com/@humzakhan.ldn">
-  <img src="https://img.shields.io/badge/-TechHammy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@humzakhan.ldn"/>
+  <img src="https://img.shields.io/badge/-HumzaK-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@humzakhan.ldn"/>
 </a>
 
 <a href="https://yourwebsite.com">
-  <img src="https://img.shields.io/badge/-TechHammy%20Website-purple?style=flat-square&logo=Internet%20Explorer&logoColor=white&link=https://yourwebsite.com"/>
+  <img src="https://img.shields.io/badge/-HumzaK%20Website-purple?style=flat-square&logo=Internet%20Explorer&logoColor=white&link=https://yourwebsite.com"/>
 </a>
 
 </p>
